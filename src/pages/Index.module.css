@@ -1,0 +1,21 @@
+.card {
+    background-image: url("https://tipaxco.com/UI/Styles/Default/images/logo.svg") ;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 120, 74, .8);
+    color: #ffffff;
+    height: 250px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.link {
+    margin-top: 150px;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    height: 20px;
+    text-decoration: none;
+}

@@ -1,7 +1,5 @@
 import { CookiesProvider } from 'react-cookie';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import { Authentication } from './componets/Authentication';
-import UnAuthentication from './componets/UnAuthentication';
 import { ToastContainer } from 'react-toastify';
 import Login from './pages/Login'
 import City from './pages/City'
